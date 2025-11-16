@@ -1,0 +1,11 @@
+pages\pricelist\component\ProductListComponent.class
+pages\pricelist\component\ProductListLocators.class
+helpers\CustomAllureSelenide.class
+helpers\ConfigProvider.class
+pages\pricelist\component\PaginationComponent.class
+pages\pricelist\component\FilterComponent.class
+pages\pricelist\component\LoadProduct.class
+helpers\DataProvider.class
+pages\card\ProductCardPage.class
+pages\home\YandexMarketHomeCatalogPage.class
+pages\pricelist\YandexMarketProductListPage.class
